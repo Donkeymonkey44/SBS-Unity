@@ -1,2 +1,2 @@
-# SBS-Unity
+# SBS_Unity
 Sunday Unity Class
