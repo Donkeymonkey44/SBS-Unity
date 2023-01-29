@@ -166,6 +166,7 @@ aaaaaaaaaaaaaaaaaa"); */
             // var (C# 에만 있음)
 
             // 배열
+            /*
             int[] i1 = new int[5] { 1, 2, 3, 4, 5 };
             int[] i2 = new int[5] { 14, 44, 4, 34, 24};
             int[] i3 = new int[5] { 2, 4, 6, 8, 10};
@@ -189,7 +190,17 @@ aaaaaaaaaaaaaaaaaa"); */
             lang[2] = "C#";
             System.Console.WriteLine($"0번 값은 {lang[0]} 입니다.");
             lang[0] = "Python";
-            System.Console.WriteLine($"0번 값은 {lang[0]} 입니다.");
+            System.Console.WriteLine($"0번 값은 {lang[0]} 입니다."); */
+
+            string[] food = new string[4] { "떡볶이", "김밥", "라면", "라볶이" };
+            System.Console.Write("숫자를 입력해주세요 (0 ~ 3) : ");
+            string choice = System.Console.ReadLine();
+            int choNum = Convert.ToInt32(choice);
+
+            System.Console.WriteLine("선택하신 숫자의 메뉴는 {0} 입니다.", food[choNum]);
+            food[choNum] = " ";
+
+            System.Console.WriteLine($"{food[0]}, {food[1]}, {food[2]}, {food[3]}");
         }
     }
 }
