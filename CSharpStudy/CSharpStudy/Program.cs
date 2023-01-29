@@ -193,6 +193,7 @@ aaaaaaaaaaaaaaaaaa"); */
             System.Console.WriteLine($"0번 값은 {lang[0]} 입니다."); */
 
             string[] food = new string[4] { "떡볶이", "김밥", "라면", "라볶이" };
+            System.Console.WriteLine($"{food[0]}, {food[1]}, {food[2]}, {food[3]}");
             System.Console.Write("숫자를 입력해주세요 (0 ~ 3) : ");
             string choice = System.Console.ReadLine();
             int choNum = Convert.ToInt32(choice);
@@ -201,6 +202,12 @@ aaaaaaaaaaaaaaaaaa"); */
             food[choNum] = " ";
 
             System.Console.WriteLine($"{food[0]}, {food[1]}, {food[2]}, {food[3]}");
+            System.Console.WriteLine("추가 하실 메뉴를 입력해주세요 : ");
+            string addFood1 = System.Console.ReadLine();
+            string addFood2 = System.Console.ReadLine();
+            string addFood3 = System.Console.ReadLine();
+            string[] newFood = new string[7] { food[0], food[1], food[2], food[3], addFood1, addFood2, addFood3 };
+            System.Console.WriteLine($"{newFood[0]}, {newFood[1]}, {newFood[2]}, {newFood[3]}, {newFood[4]}, {newFood[5]}, {newFood[6]}");
         }
     }
 }
