@@ -26,13 +26,21 @@ string Intro = Console.ReadLine();
 
 int birth = Convert.ToInt32(birthYear);
 int Old = 2023 - birth + 1;
-
 Console.WriteLine(" ");
 Console.WriteLine(" ");
 Console.WriteLine(" ");
-
 Console.WriteLine($"이름 : {Name}");
 Console.WriteLine($"나이 : {Old}");
 Console.WriteLine($"주소 : {Add}");
 Console.WriteLine($"성별 : {Sex}");
 Console.WriteLine($"자기소개 : {Intro}");
+Console.WriteLine(" ");
+
+Console.WriteLine("0203 숙제");
+string[] Foods = { "떡볶이", "김밥", "만두", "튀김"};
+Console.Write("먹을 음식의 번호를 입력해 주세요 (1.떡볶이 2.김밥 3.만두 4.튀김) : ");
+string choice = Console.ReadLine();
+int choNum = (Convert.ToInt32(choice));
+Console.WriteLine("당신은 {0}을 먹었습니다.", Foods[choNum - 1]);
+Foods[choNum - 1] = " ";
+Console.WriteLine($"남아 있는 음식은 {Foods[0]}, {Foods[1]}, {Foods[2]}, {Foods[3]} 입니다");
