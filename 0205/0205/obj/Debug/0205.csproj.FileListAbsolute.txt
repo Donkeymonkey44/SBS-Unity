@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\unity\0205\0205\bin\Debug\0205.exe.config
+C:\Users\admin\Desktop\unity\0205\0205\bin\Debug\0205.exe
+C:\Users\admin\Desktop\unity\0205\0205\bin\Debug\0205.pdb
+C:\Users\admin\Desktop\unity\0205\0205\obj\Debug\0205.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\unity\0205\0205\obj\Debug\0205.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\unity\0205\0205\obj\Debug\0205.exe
+C:\Users\admin\Desktop\unity\0205\0205\obj\Debug\0205.pdb

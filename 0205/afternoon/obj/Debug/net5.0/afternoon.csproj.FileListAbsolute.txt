@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\unity\0205\afternoon\bin\Debug\net5.0\afternoon.exe
+C:\Users\admin\Desktop\unity\0205\afternoon\bin\Debug\net5.0\afternoon.deps.json
+C:\Users\admin\Desktop\unity\0205\afternoon\bin\Debug\net5.0\afternoon.runtimeconfig.json
+C:\Users\admin\Desktop\unity\0205\afternoon\bin\Debug\net5.0\afternoon.runtimeconfig.dev.json
+C:\Users\admin\Desktop\unity\0205\afternoon\bin\Debug\net5.0\afternoon.dll
+C:\Users\admin\Desktop\unity\0205\afternoon\bin\Debug\net5.0\ref\afternoon.dll
+C:\Users\admin\Desktop\unity\0205\afternoon\bin\Debug\net5.0\afternoon.pdb
+C:\Users\admin\Desktop\unity\0205\afternoon\obj\Debug\net5.0\afternoon.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\unity\0205\afternoon\obj\Debug\net5.0\afternoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\unity\0205\afternoon\obj\Debug\net5.0\afternoon.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\unity\0205\afternoon\obj\Debug\net5.0\afternoon.AssemblyInfo.cs
+C:\Users\admin\Desktop\unity\0205\afternoon\obj\Debug\net5.0\afternoon.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\unity\0205\afternoon\obj\Debug\net5.0\afternoon.dll
+C:\Users\admin\Desktop\unity\0205\afternoon\obj\Debug\net5.0\ref\afternoon.dll
+C:\Users\admin\Desktop\unity\0205\afternoon\obj\Debug\net5.0\afternoon.pdb
+C:\Users\admin\Desktop\unity\0205\afternoon\obj\Debug\net5.0\afternoon.genruntimeconfig.cache
