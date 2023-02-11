@@ -1,0 +1,15 @@
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\bin\Debug\net6.0\2010.exe
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\bin\Debug\net6.0\2010.deps.json
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\bin\Debug\net6.0\2010.runtimeconfig.json
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\bin\Debug\net6.0\2010.dll
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\bin\Debug\net6.0\2010.pdb
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\obj\Debug\net6.0\2010.csproj.AssemblyReference.cache
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\obj\Debug\net6.0\2010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\obj\Debug\net6.0\2010.AssemblyInfoInputs.cache
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\obj\Debug\net6.0\2010.AssemblyInfo.cs
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\obj\Debug\net6.0\2010.csproj.CoreCompileInputs.cache
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\obj\Debug\net6.0\2010.dll
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\obj\Debug\net6.0\refint\2010.dll
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\obj\Debug\net6.0\2010.pdb
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\obj\Debug\net6.0\2010.genruntimeconfig.cache
+C:\Users\smreo\Desktop\SBS\Homework\0211\2010\obj\Debug\net6.0\ref\2010.dll
