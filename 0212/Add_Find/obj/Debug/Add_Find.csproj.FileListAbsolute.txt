@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\새 폴더\0212\Add_Find\bin\Debug\Add_Find.exe.config
+C:\Users\admin\Desktop\새 폴더\0212\Add_Find\bin\Debug\Add_Find.exe
+C:\Users\admin\Desktop\새 폴더\0212\Add_Find\bin\Debug\Add_Find.pdb
+C:\Users\admin\Desktop\새 폴더\0212\Add_Find\obj\Debug\Add_Find.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\새 폴더\0212\Add_Find\obj\Debug\Add_Find.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\새 폴더\0212\Add_Find\obj\Debug\Add_Find.exe
+C:\Users\admin\Desktop\새 폴더\0212\Add_Find\obj\Debug\Add_Find.pdb

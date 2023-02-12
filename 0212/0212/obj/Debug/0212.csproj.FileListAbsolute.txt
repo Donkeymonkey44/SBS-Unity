@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\새 폴더\0212\0212\bin\Debug\0212.exe.config
+C:\Users\admin\Desktop\새 폴더\0212\0212\bin\Debug\0212.exe
+C:\Users\admin\Desktop\새 폴더\0212\0212\bin\Debug\0212.pdb
+C:\Users\admin\Desktop\새 폴더\0212\0212\obj\Debug\0212.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\새 폴더\0212\0212\obj\Debug\0212.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\새 폴더\0212\0212\obj\Debug\0212.exe
+C:\Users\admin\Desktop\새 폴더\0212\0212\obj\Debug\0212.pdb
