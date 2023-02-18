@@ -1,0 +1,15 @@
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\bin\Debug\net6.0\0213.exe
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\bin\Debug\net6.0\0213.deps.json
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\bin\Debug\net6.0\0213.runtimeconfig.json
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\bin\Debug\net6.0\0213.dll
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\bin\Debug\net6.0\0213.pdb
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\obj\Debug\net6.0\0213.csproj.AssemblyReference.cache
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\obj\Debug\net6.0\0213.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\obj\Debug\net6.0\0213.AssemblyInfoInputs.cache
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\obj\Debug\net6.0\0213.AssemblyInfo.cs
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\obj\Debug\net6.0\0213.csproj.CoreCompileInputs.cache
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\obj\Debug\net6.0\0213.dll
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\obj\Debug\net6.0\refint\0213.dll
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\obj\Debug\net6.0\0213.pdb
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\obj\Debug\net6.0\0213.genruntimeconfig.cache
+C:\Users\smreo\Desktop\SBS\Homework\0218_Homework\0213\obj\Debug\net6.0\ref\0213.dll
